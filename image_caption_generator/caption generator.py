@@ -1,3 +1,6 @@
+#Dont copy and use my code without my permission. @copyright 2021
+
+
 #import keras package for preprocessing the text.
 #import pickle package for saving and loading the file.
 #cv2 package is imported for image preprocessing.
@@ -140,3 +143,6 @@ playsound("text.mp3")
 # speech = gTTS(text=text, lang=language, slow=False)
 # speech.save('text.mp3')
 # os.system("start text.mp3")
+
+
+#Dont copy and use my code without my permission. @copyright 2021
